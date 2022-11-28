@@ -14,3 +14,4 @@ Using ML to predict used car prices in india.
    <img width="600" alt="Screen Shot 2022-11-27 at 11 38 19 PM" src="https://user-images.githubusercontent.com/57921290/204220398-5a8739a6-183f-46d6-8927-f039fc777373.png">
 
 
+**A more detailed presentation can be seen in the files as well as the EDA notebook**
