@@ -1,5 +1,5 @@
 # Predicting Used Car prices in India
-Using ML to predict used car prices in india. 
+Using various regressors to predict used car prices in india. 
 
 
 ## Summary
